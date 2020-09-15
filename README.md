@@ -1,5 +1,7 @@
 # Junction2019
 
+This repository contains our solution to the [DNA of Helsinki challenge](https://2019.hackjunction.com/challenges/the-dna-of-helsinki) of the [Junction 2019](https://2019.hackjunction.com) hackathon.
+
 ## Introduction
 Nowadays, it is common for local businesses and public institutions to gather data about their own establishment. What is mostly missed, however, is the importance of relations to other facilities in the same city. Access to this data would open a whole new level of analytics and connectivity possibilities.
 
